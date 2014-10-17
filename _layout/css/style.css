@@ -1,0 +1,165 @@
+/*HOME PAGE*/
+
+a:hover{
+	color:#1093dd;
+}
+
+/*./////////////////////////ICON BOX//////////////////*/
+#gray{
+	background-color: #d4d4d4;
+	color:#818181;
+	padding-bottom:60px;
+}
+
+h3.subhead {
+	text-align: center;
+	font-size: 28px;
+	width:60%;
+	margin-left: auto;
+	margin-right: auto;
+	color: #1093dd;
+	font-weight: 300;
+	padding-bottom: 30px;
+
+}
+.useCaselinks{
+	text-transform: uppercase;	
+}
+#gray a{
+	color:#818181;
+}
+.icon-box-content p{
+	width:95%;
+	margin-right: auto;
+	margin-right: auto;
+}
+
+#homebanner{
+	background-image: url(../../_content/slider/home02.jpg);
+
+}
+
+/*./////////////////////////TESTIMONIALS SLIDER//////////////////*/
+#ctestimonials{
+	background-image: url("../../_content/index/testimonials.jpg");
+	padding-bottom:540px;
+	
+	background-position: center;
+
+
+}
+.testimonial-slider{
+	background-color: rgba(255,255,255,0.5);
+	color: #1093dd;
+	padding:30px;
+	border-radius: 5px;
+}
+.bx-pager,.bx-default-pager{
+	display: none;
+}
+
+/*./////////////////////////MILESTONES//////////////////*/
+
+#milestone{
+	margin:0px;
+}
+.cta {
+	font-size: 24px;
+	font-weight: 400;
+	text-transform: uppercase;
+	color: #fff;
+}
+
+/*WHY MYLO PAGE*/
+
+
+/*./////////////////////////FEATURES//////////////////*/
+.featureContainer{
+	width: 100%;
+	/*background-color: #1093dd;*/
+	border-bottom: 1px solid #cdcdcd;
+	/*color:#fff;*/
+	padding-top: 50px;
+	padding-bottom:50px;
+}
+
+#features{
+	margin-top:50px;
+}
+
+/*./////////////////////////ACCORDION//////////////////*/
+.fbox{
+	margin-top: 25%;
+}
+#ficon
+{
+	font-size: 70px;
+	font-weight: 100;
+}
+
+.f1{
+	line-height: 30pc;
+	font-size: 25px;
+	font-weight: 300;
+	color:#1093dd;
+	text-transform: uppercase;
+}
+a.blue{ color: #818181; }
+
+a.blue:hover{ color: #1093dd; }
+
+a.blue:visited{ color: #1093dd; }
+
+/*a.gray{ color: #818181; }
+
+a.gray:hover{ color: #1093dd; }
+
+a.gray:visited{ color: #1093dd; }*/
+
+
+/*./////////////////////////ABOUT//////////////////*/
+
+#about{
+	width:100%;
+}
+
+#quote{
+	background-color: #1093dd;
+	padding:100px;
+	color:#fff;
+	font-size: 24px;
+	line-height: 30px;
+}
+
+.btn-gray{
+	background-color: #fff;
+	color: #1093dd;
+
+}
+.btn-gray:hover{
+	background-color: #d4d4d4;
+	color: #1093dd;
+}
+p.ceo{
+	text-align: center;
+	font-size: 14px;
+	color: #d4d4d4;
+}
+
+/*./////////////////////////CONTACT//////////////////*/
+#cRow{
+	padding-top: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
